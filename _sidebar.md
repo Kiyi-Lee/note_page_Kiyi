@@ -1,0 +1,6 @@
+* [首页](index/index) 
+* [所有笔记](all/all)
+* [Python基础笔记](all/python学习)
+* [How to take notes](all/how_to_take_notes)
+* [其它笔记](all/others)
+* [待定](null/null)
